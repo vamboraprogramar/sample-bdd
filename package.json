@@ -12,9 +12,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "test:bdd": "node ./node_modules/selenium-cucumber-js/index.js -s ./step-definitions",
+    "build": "react-scripts build",    
+    "test": "node ./node_modules/selenium-cucumber-js/index.js -s ./step-definitions",
     "eject": "react-scripts eject"
   }
 }
