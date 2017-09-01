@@ -5,11 +5,11 @@
             <property name="URI" value="C:/Projetos/sample-bdd/features/google-search.feature">
             </property>
         </properties>
-        <testcase name="Given I access Google page" classname="searching-for-vote-cards-app;google-search-for-vote-cards-app" time="5.094707074">
+        <testcase name="Given I access Google page" classname="searching-for-vote-cards-app;google-search-for-vote-cards-app" time="5.243812292">
         </testcase>
-        <testcase name="When I search Google for &quot;teste&quot;" classname="searching-for-vote-cards-app;google-search-for-vote-cards-app" time="0.003603632">
+        <testcase name="When I search Google for &quot;teste&quot;" classname="searching-for-vote-cards-app;google-search-for-vote-cards-app" time="0.002182643">
         </testcase>
-        <testcase name="Then I should see product detail with title &quot;teste - Pesquisa Google&quot;" classname="searching-for-vote-cards-app;google-search-for-vote-cards-app" time="0.002546211">
+        <testcase name="Then I should see product detail with title &quot;teste - Pesquisa Google&quot;" classname="searching-for-vote-cards-app;google-search-for-vote-cards-app" time="4.51351121">
         </testcase>
     </testsuite>
 </testsuites>
