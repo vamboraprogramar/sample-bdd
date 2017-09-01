@@ -14,11 +14,11 @@
             "name": "I access Google page",
             "result": {
               "status": "passed",
-              "duration": 4262983160
+              "duration": 5798978779
             },
             "line": 7,
             "match": {
-              "location": "D:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:2"
+              "location": "C:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:2"
             }
           },
           {
@@ -27,11 +27,11 @@
             "name": "I search Google for \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 1057402
+              "duration": 2690517
             },
             "line": 8,
             "match": {
-              "location": "D:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:6"
+              "location": "C:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:6"
             }
           },
           {
@@ -40,11 +40,11 @@
             "name": "I should see product detail with title \"teste - Pesquisa Google\"",
             "result": {
               "status": "passed",
-              "duration": 1127516998
+              "duration": 1359699220
             },
             "line": 9,
             "match": {
-              "location": "D:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:13"
+              "location": "C:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:14"
             }
           },
           {
@@ -52,11 +52,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 2361747705
+              "duration": 2196124734
             },
             "hidden": true,
             "match": {
-              "location": "D:\\Projetos\\sample-bdd\\node_modules\\selenium-cucumber-js\\runtime\\world.js:185"
+              "location": "C:\\Projetos\\sample-bdd\\node_modules\\selenium-cucumber-js\\runtime\\world.js:185"
             }
           }
         ],
@@ -69,6 +69,6 @@
     "line": 1,
     "name": "Searching for vote cards app",
     "tags": [],
-    "uri": "D:/Projetos/sample-bdd/features/google-search.feature"
+    "uri": "C:/Projetos/sample-bdd/features/google-search.feature"
   }
 ]
