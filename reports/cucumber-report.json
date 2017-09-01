@@ -14,7 +14,7 @@
             "name": "I access Google page",
             "result": {
               "status": "passed",
-              "duration": 5798978779
+              "duration": 5094707074
             },
             "line": 7,
             "match": {
@@ -27,7 +27,7 @@
             "name": "I search Google for \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 2690517
+              "duration": 3603632
             },
             "line": 8,
             "match": {
@@ -40,11 +40,11 @@
             "name": "I should see product detail with title \"teste - Pesquisa Google\"",
             "result": {
               "status": "passed",
-              "duration": 1359699220
+              "duration": 2546211
             },
             "line": 9,
             "match": {
-              "location": "C:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:14"
+              "location": "C:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:13"
             }
           },
           {
@@ -52,7 +52,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 2196124734
+              "duration": 3743713548
             },
             "hidden": true,
             "match": {

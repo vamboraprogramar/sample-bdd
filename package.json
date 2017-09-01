@@ -13,7 +13,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",    
-    "test": "node ./node_modules/selenium-cucumber-js/index.js -s ./step-definitions",
+    "test": "node ./node_modules/selenium-cucumber-js/index.js -s ./step-definitions -b chrome",
     "eject": "react-scripts eject"
   }
 }
