@@ -1,0 +1,74 @@
+[
+  {
+    "description": "  As an internet user\n  In order to find out more about the itunes vote cards app\n  I want to be able to search for information about the itunes vote cards app",
+    "elements": [
+      {
+        "id": "searching-for-vote-cards-app;google-search-for-vote-cards-app",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Google search for vote cards app",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I access Google page",
+            "result": {
+              "status": "passed",
+              "duration": 4169580718
+            },
+            "line": 7,
+            "match": {
+              "location": "D:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:2"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I search Google for \"teste\"",
+            "result": {
+              "status": "passed",
+              "duration": 748495
+            },
+            "line": 8,
+            "match": {
+              "location": "D:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see product detail with title \"teste - Pesquisa Google\"",
+            "result": {
+              "status": "passed",
+              "duration": 1092105375
+            },
+            "line": 9,
+            "match": {
+              "location": "D:\\Projetos\\sample-bdd\\step-definitions\\google-search-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 2370743544
+            },
+            "hidden": true,
+            "match": {
+              "location": "D:\\Projetos\\sample-bdd\\node_modules\\selenium-cucumber-js\\runtime\\world.js:185"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "searching-for-vote-cards-app",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Searching for vote cards app",
+    "tags": [],
+    "uri": "D:/Projetos/sample-bdd/features/google-search.feature"
+  }
+]
