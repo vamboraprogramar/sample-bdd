@@ -14,7 +14,7 @@
             "name": "I access Google page",
             "result": {
               "status": "passed",
-              "duration": 4169580718
+              "duration": 4274614092
             },
             "line": 7,
             "match": {
@@ -27,7 +27,7 @@
             "name": "I search Google for \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 748495
+              "duration": 836755
             },
             "line": 8,
             "match": {
@@ -40,7 +40,7 @@
             "name": "I should see product detail with title \"teste - Pesquisa Google\"",
             "result": {
               "status": "passed",
-              "duration": 1092105375
+              "duration": 1374289752
             },
             "line": 9,
             "match": {
@@ -52,7 +52,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 2370743544
+              "duration": 137076037
             },
             "hidden": true,
             "match": {
